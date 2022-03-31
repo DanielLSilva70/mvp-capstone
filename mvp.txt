@@ -1,0 +1,11 @@
+Idea: App that shows soccer scores, standings, and stats for
+
+MVP:
+-lets user select a soccer league
+-user can view standings and stats for each league 
+-user can can view players of each team in the league also their stats for the season
+-user can view standing and stats for previous seasons
+-user can add teams to a favorited team list
+
+future features:
+-User can view highlights of previous games
